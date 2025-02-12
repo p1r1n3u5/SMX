@@ -54,3 +54,27 @@ Cantant (2013-actualitat)
   ]
 }
 ```
+
+```
+console.log("Hello, World!");
+
+function add(a, b) {
+    return a + b;
+}
+
+let result = add(5, 3);
+console.log(result); // Output: 8
+
+let fruits = ["Apple", "Banana", "Cherry"];
+fruits.push("Date");
+
+fruits.forEach(function(fruit) {
+    console.log(fruit);
+});
+
+// Output:
+// Apple
+// Banana
+// Cherry
+// Date
+```
