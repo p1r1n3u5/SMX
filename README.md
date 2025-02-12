@@ -5,8 +5,16 @@
 ## Biografia
 **Fikret Tuncher Ali** (Búlgar: Фикрет Тунчер Али; turc: Fikret Tunçer Ali) 
 més conegut com a Fiki, és un cantant bulgar de pop-folk de ascendència turca.
-Va néixer el 3 de març de 1995 a Shumen, Bulgària
+Va néixer el 3 de març de 1995 a Shumen, Bulgària.
 
+## Idiomes
+| Bulgar | Natiu |
+|--------|-------|
+| Turc | Secundari |
+| Anglès | avançat |
+
+## Experiència laboral
+Cantant (2013-actualitat)
 
 ```geojson
 {
